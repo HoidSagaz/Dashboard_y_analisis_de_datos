@@ -33,7 +33,7 @@ Este proyecto está desarrollado íntegramente en **Microsoft Excel** y no requi
 
 **Requisitos:**
 - Microsoft Excel 2016 o superior (para compatibilidad con slicers y tablas dinámicas)
-- Los datos provienen de [Inside Airbnb](http://insideairbnb.com/get-the-data) — archivo `listings.csv` de Madrid (2025)
+- Los datos provienen de http://insideairbnb.com/get-the-data — archivo `listings.csv` de Madrid (2025)
 
 **Para abrir el proyecto:**
 1. Descarga el archivo `.xlsx`
